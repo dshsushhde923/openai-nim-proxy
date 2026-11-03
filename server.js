@@ -22,9 +22,9 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
-  'glm-5.2': 'z-ai/glm-5.2',
+  'glm-5-3': 'z-ai/glm-5-3-flash',
   'gemma-4-31b-it': 'google/gemma-4-31b-it',
-  'deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro',
+  'deepseek-v4.1-flash': 'deepseek-ai/deepseek-v4.1-flash',
 };
 
 // Health check endpoint
